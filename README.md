@@ -10,9 +10,9 @@
 2. **login.jsx**  :
    Handels user login Functionality
    
-2. **.jsx**  :
+3. **item.jsx**  :
    contains list of items
    
-3. **App.css**  :
+4. **App.css**  :
    contains css
 
